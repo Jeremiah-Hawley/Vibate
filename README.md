@@ -4,7 +4,6 @@
 ## Setup Crates
 1) Setup gpui
 2) choose between docx-rs and docx_rust for docx editing
-3) rust-dropbox 
 
 # features
 ## docx editing with vim keybinds and "verbatim keybinds"
@@ -18,6 +17,6 @@
 1) should be on top of .card files
 ## have a search function, for specific cards, solves the "backfiles problem"
 ## have dropbox support
-many options for implimentation, couldhave users input a path to the directory, or maybe there's a crate for that?
+many options for implimentation, couldhave users input a path to the directory, or maybe there's a crate for that? I think i'll go with the path
 ## be able to parse existing docx files and split them into .card files
 

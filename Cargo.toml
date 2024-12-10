@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-gpui = { git = https://github.com/zed-industries/zed }
+gpui = { git = "https://github.com/zed-industries/zed" }
+docx-rust = "0.1.8"
