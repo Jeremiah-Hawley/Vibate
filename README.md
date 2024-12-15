@@ -1,8 +1,8 @@
 # Vibate
-(WIP) GPU Accelerated docx editor with vim keybinds custumized for debate
+docx editor with vim keybinds custumized for debate written in Rust
 # TODO
 ## Setup Crates
-1) Setup gpui
+1) Setup Tauri or Druid
 2) choose between docx-rs and docx_rust for docx editing
 
 # features

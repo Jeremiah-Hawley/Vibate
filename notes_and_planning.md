@@ -9,3 +9,4 @@ reading from files is easy, I think the hard part is making it efficient, i can'
 
 
 # GPUI
+has literally zero documentation, very sad, will end up using Azul instead because it's still rust native.

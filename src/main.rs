@@ -1,5 +1,5 @@
-mod pull_settings;
-//use docx-rust::*
+// use statements
+
 fn main() {
-  pull_settings::read_config();
+    
 }
